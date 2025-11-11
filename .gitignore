@@ -1,0 +1,16 @@
+# Ignore all CP Helper folders
+**/.cph/
+.cph/
+.cph
+
+# Ignore build/output files
+*.out
+*.exe
+
+# Ignore input/output and logs
+input.txt
+output.txt
+*.log
+
+# Ignore VS Code workspace folder
+.vscode/
