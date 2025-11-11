@@ -1,0 +1,12 @@
+# Ignore CP extension folders anywhere in the repo
+**/.cph/
+
+# Ignore typical build/test files
+*.out
+*.exe
+input.txt
+output.txt
+*.log
+
+# Ignore VS Code workspace settings
+.vscode/
