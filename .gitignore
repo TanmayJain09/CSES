@@ -14,3 +14,6 @@ output.txt
 
 # Ignore VS Code workspace folder
 .vscode/
+
+# Ignore all .bin files in all folders
+**/*.bin
